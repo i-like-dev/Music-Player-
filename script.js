@@ -25,19 +25,19 @@ const music_list = [
         img : 'images/handclap.jpeg',
         name : 'HandClap',
         artist : 'Fitz and The Tantrums',
-        music : 'music/handclap.mp3'
+        music : 'music/handclap.mp4'
     },
     {
         img : 'images/小城夏天.jpeg',
         name : '小城夏天',
         artist : 'LBI 利比',
-        music : 'music/小城夏天-music.mp3'
+        music : 'music/小城夏天-music.mp4'
     },
     {
         img : 'images/105.jpeg',
         name : '熱愛105°C的你',
         artist : '阿肆',
-        music : 'music/熱愛105-music.mp3'
+        music : 'music/熱愛105-music.mp4'
     }
 ];
 
