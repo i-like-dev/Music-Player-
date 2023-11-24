@@ -22,28 +22,22 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        img : 'images/handclap.jpeg',
+        name : 'HandClap',
+        artist : 'Fitz and The Tantrums',
+        music : 'music/handclap.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        img : 'images/小城夏天.jpeg',
+        name : '小城夏天',
+        artist : 'LBI 利比',
+        music : 'music/小城夏天-music.mp3'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
-    },
-    {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        img : 'images/105.jpeg',
+        name : '熱愛105°C的你',
+        artist : '阿肆',
+        music : 'music/熱愛105-music.mp3'
     }
 ];
 
